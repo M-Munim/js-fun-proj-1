@@ -4,6 +4,15 @@
     box-sizing: border-box;
 }
 
+.head {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    max-width: 1200px;
+    justify-content: space-between;
+    margin: 20px auto;
+
+}
+
 #center {
     position: absolute;
     top: 50%;
